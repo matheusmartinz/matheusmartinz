@@ -3,10 +3,10 @@
 - Atualmente apenas estudo HTML, CSS e JAVASCRIPT 🎯
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmartinz&theme=transparent&show_icons=true"/>
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmartinz&theme=transparent&show_icons=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmartinz&layout=compact&theme=transparent"
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmartinz&layout=compact&theme=transparent"
 </a>
 
 <div style="display: inline_block"><br>

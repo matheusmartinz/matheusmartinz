@@ -1,4 +1,4 @@
-###  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=230&color=0000FF&center=true&vCenter=true&width=1000&lines=Prazer+,+Me+chamo+Matheus\;
+###  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=230&color=0000FF&center=true&vCenter=true&width=1000&lines=Prazer+,+Me+chamo+Matheus)
 
 <div align="center">
 <ahref="https://github.com/anuraghazra/github-readme-stats">

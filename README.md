@@ -5,7 +5,7 @@
 <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=matheusmartinz&theme=transparent&show_icons=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmartinz"
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmartinz&theme=transparent"
 </a>
 </div>
    <h2 align="center">Tecnologias e linguagens que estudo atualmente</h2>

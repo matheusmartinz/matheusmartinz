@@ -59,5 +59,5 @@
 ---
 
 <div align="center">
-     ![Snake animation](https://raw.githubusercontent.com/danielbped/danielbped/main/github-contribution-grid-snake.svg)
+     https://raw.githubusercontent.com/danielbped/danielbped/main/github-contribution-grid-snake.svg
 </div>

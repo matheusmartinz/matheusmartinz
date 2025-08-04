@@ -19,6 +19,7 @@
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Github" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg">
+   <img align="center" alt="Postman" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
 </div><br>
 
 ##

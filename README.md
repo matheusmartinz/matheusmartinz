@@ -55,7 +55,3 @@
      <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20CODE-%230077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div><br>
-
----
-
-

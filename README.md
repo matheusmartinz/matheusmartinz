@@ -16,6 +16,7 @@
 <div align="center" valign="top">
   <!-- Backend -->
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
   <img align="center" alt="Spring Boot" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg">
 
   <!-- Frontend -->

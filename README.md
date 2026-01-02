@@ -1,9 +1,9 @@
 ###  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=230&color=0000FF&center=true&vCenter=true&width=1000&lines=Prazer+,+Me+chamo+Matheus)
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=matheusmartinz&theme=transparent&show_icons=true" />
-  </a>
+  </a> -->
   <a href="https://github.com/anuraghazra/convoychat">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmartinz&theme=transparent&layout=compact" />
   </a>

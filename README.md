@@ -4,9 +4,9 @@
   <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=matheusmartinz&theme=transparent&show_icons=true" />
   </a> -->
-  <a href="https://github.com/anuraghazra/convoychat">
+  <!-- <a href="https://github.com/anuraghazra/convoychat">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmartinz&theme=transparent&layout=compact" />
-  </a>
+  </a> -->
 </div>
 
 ---
